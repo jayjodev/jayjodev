@@ -3,5 +3,6 @@ Hello!! 👋
 Software Engineer, Living in Seoul.
 
 * Linux Foundation Authorised Instructor LFS458 and LFD459.
-* Code with Node.js, Java Spring Boot, Python.
-* Study blog: https://anote.dev 
+* Coding Node.js, Java Spring Boot, Python in MSA environment
+* Study blog: https://anote.dev
+* Working at OSC KOREA.
