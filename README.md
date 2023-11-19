@@ -1,6 +1,6 @@
 Hello!! 👋
 
-Software Engineer | Lifelong Learner , Living in Seoul.
+Software Engineer | Lifetime Learner , Living in Seoul.
 
 * Learning blog: https://jayjodev.github.io | https://anote.dev 
 * Coding with Node.js, Java Spring Boot, Python in MSA environment.
